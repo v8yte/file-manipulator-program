@@ -8,6 +8,6 @@
 `duplicate-contents <inputpath> n`:  
 	\<inputpath> にあるファイルの内容を読み込み、その内容を複製し、複製された内容を \<inputpath> に n 回複製します。  
   
-`replace-string \<inputpath> needle newstring`:  
+`replace-string <inputpath> needle newstring`:  
 	\<inputpath> にあるファイルの内容から文字列 'needle' を検索し、'needle' の全てを 'newstring' に置き換えます。  
   
